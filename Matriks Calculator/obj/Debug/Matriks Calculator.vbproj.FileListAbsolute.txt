@@ -1,0 +1,23 @@
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\bin\Debug\Matriks Calculator.exe.config
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\bin\Debug\Matriks Calculator.exe
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\bin\Debug\Matriks Calculator.pdb
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\bin\Debug\Matriks Calculator.xml
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks Calculator.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks Calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks_Calculator.Form1.resources
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks_Calculator.Form10.resources
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks_Calculator.Form11.resources
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks_Calculator.Form2.resources
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks_Calculator.Form3.resources
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks_Calculator.Form4.resources
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks_Calculator.Form5.resources
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks_Calculator.Form6.resources
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks_Calculator.Form7.resources
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks_Calculator.Form8.resources
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks_Calculator.Form9.resources
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks_Calculator.Resources.resources
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks Calculator.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks Calculator.exe
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks Calculator.xml
+C:\Users\LENOVO\source\repos\Matriks Calculator\Matriks Calculator\obj\Debug\Matriks Calculator.pdb
