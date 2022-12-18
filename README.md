@@ -11,4 +11,4 @@ Matriks Calculator is a calculator that can calculated operation on Matriks 2 x 
 6. Find The Cofactors of Matriks
 
 ## Creator
-Josi Kie
+Josi Kie N.
